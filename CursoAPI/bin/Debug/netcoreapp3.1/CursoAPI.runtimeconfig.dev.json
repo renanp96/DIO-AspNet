@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\izana\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\izana\\.nuget\\packages"
+    ]
+  }
+}
